@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
