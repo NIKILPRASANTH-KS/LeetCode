@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0507-perfect-number) |
@@ -120,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0292-nim-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Database
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0595-big-countries) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
