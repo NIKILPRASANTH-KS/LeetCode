@@ -1,7 +1,7 @@
 bool validMountainArray(int* arr, int n){
     if (n<=2) return false;
     int mark,flag=0;
-    if (arr[0]>arr[1]) return 0;
+    if (arr[0]>arr[1]) return false;
     for(int i=0;i<n-1;i++){
         if(arr[i+1]>arr[i]){
             mark=i+1;
