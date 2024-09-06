@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0162-find-peak-element) |
