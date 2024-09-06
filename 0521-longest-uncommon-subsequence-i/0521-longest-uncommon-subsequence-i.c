@@ -5,12 +5,10 @@ int findLUSlength(char* a, char* b) {
     if(alen!=blen){
         return (alen>blen)?alen:blen;
     }
-
-    int count=0,dupcount=0,flag=0;
+    int count=0,flag=0;
     for(int i=0;i<alen;i++){
         if(a[i]!=b[i]){
             flag=1;
-            dupcount++;
         }
         count++;
     }
