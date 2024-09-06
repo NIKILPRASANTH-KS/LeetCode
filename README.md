@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0551-student-attendance-record-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
