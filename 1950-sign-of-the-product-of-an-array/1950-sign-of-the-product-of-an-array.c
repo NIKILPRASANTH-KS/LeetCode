@@ -1,5 +1,5 @@
 int arraySign(int* arr, int n) {
-    int pc=0,nc=0;
+    int nc=0;
     for(int i=0;i<n;i++){
         if(arr[i]==0) return 0;
         if(arr[i]<0) nc++;
