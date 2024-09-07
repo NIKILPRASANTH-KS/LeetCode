@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1137-height-checker) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
