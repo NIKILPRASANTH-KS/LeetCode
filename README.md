@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1137-height-checker) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1833-find-the-highest-altitude](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
