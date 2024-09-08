@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2383-add-two-integers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
