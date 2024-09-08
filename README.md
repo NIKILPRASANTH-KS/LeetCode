@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2383-add-two-integers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
