@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
