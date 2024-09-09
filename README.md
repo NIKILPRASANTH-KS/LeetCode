@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2083-three-divisors) |
+| [2288-count-operations-to-obtain-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0258-add-digits) |
+| [2288-count-operations-to-obtain-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Number Theory
