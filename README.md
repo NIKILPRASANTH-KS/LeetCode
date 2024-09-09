@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Database
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
