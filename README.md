@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1137-height-checker) |
+| [1293-three-consecutive-odds](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
