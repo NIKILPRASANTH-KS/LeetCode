@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1137-height-checker) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
 |  |
 | ------- |
