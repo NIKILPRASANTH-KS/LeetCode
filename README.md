@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
