@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0258-add-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Game Theory
 |  |
 | ------- |
