@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1610-xor-operation-in-an-array) |
