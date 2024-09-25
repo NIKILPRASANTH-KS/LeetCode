@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
