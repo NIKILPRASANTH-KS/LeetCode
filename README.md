@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0389-find-the-difference) |
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1137-height-checker) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0389-find-the-difference) |
