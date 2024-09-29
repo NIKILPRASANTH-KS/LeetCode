@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0742-to-lower-case](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0742-to-lower-case) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Game Theory
 |  |
