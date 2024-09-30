@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2083-three-divisors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
