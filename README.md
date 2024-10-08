@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2752-sum-multiples) |
+| [2857-total-distance-traveled](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2857-total-distance-traveled](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
