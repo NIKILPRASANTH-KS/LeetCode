@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0742-to-lower-case) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Game Theory
 |  |
