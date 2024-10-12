@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0162-find-peak-element) |
+| [0441-arranging-coins](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0441-arranging-coins) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
