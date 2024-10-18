@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0520-detect-capital) |
