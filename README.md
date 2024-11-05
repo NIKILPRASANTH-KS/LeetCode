@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
