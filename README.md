@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
