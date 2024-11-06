@@ -7,6 +7,5 @@ int numberOfAlternatingGroups(int* colors, int c) {
         if(colors[c-1]!=colors[c-2] && colors[c-1]!=colors[0]) count++;
         if(colors[c-1]!=colors[0] && colors[1]!=colors[0]) count++;
     }
-    
     return count;
 }
