@@ -1,15 +1,14 @@
 int countSegments(char* s) {
-    int n=strlen(s);
-    int count=0;
-    bool ans=false;
-    for(int i=0;i<n;i++) {
-        if (s[i]!=' '){
-            if (!ans){
+    int n=strlen(s),count=0;
+    bool space=false;
+    for(int i=0;i<n;i++){
+        if(s[i]!=' '){
+            if(!space){
                 count++;
-                ans=true;
+                space=true;
             }
-        } 
-        else ans=0;
+        }
+        else space=false;
     }
     return count;
 }
