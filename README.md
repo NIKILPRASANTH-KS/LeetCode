@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0455-assign-cookies) |
 | [0978-valid-mountain-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0198-house-robber) |
+| [0413-arithmetic-slices](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
 ## Memoization
@@ -279,5 +281,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0413-arithmetic-slices) |
 | [3463-alternating-groups-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
