@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1137-height-checker) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
