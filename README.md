@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0231-power-of-two) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
