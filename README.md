@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0283-move-zeroes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0198-house-robber) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
