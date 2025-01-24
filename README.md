@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
@@ -306,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
