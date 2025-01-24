@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0202-happy-number) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0413-arithmetic-slices) |
 | [3463-alternating-groups-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/3463-alternating-groups-i) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
