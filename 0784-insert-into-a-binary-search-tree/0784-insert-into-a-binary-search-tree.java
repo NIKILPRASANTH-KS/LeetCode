@@ -18,9 +18,7 @@ class Solution {
         if(root==null) return new TreeNode(val);
         int num=root.val;
         if(num<val) root.right=insertIntoBST(root.right,val);
-        else{
-            root.left= insertIntoBST(root.left,val);
-        }
+        else root.left= insertIntoBST(root.left,val);
         return root;
     }
 }
