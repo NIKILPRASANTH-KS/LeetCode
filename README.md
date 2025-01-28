@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1086-divisor-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
