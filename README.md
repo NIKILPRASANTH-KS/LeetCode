@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0520-detect-capital](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0551-student-attendance-record-i) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -358,10 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0112-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/NIKILPRASANTH-KS/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
