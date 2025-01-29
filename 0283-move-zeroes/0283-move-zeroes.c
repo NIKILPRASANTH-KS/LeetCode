@@ -14,12 +14,12 @@ void moveZeroes(int* arr, int n) {
         arr[a]=brr[a];
     }
     free(brr);
-    printf("[");
-    for(int a=0;a<n;a++){
-        printf("%d",arr[a]);
-        if(a<n-1){
-            printf(",");
-        }
-    }
-    printf("]");
+    // printf("[");
+    // for(int a=0;a<n;a++){
+    //     printf("%d",arr[a]);
+    //     if(a<n-1){
+    //         printf(",");
+    //     }
+    // }
+    // printf("]");
 }
